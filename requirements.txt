@@ -3,7 +3,6 @@ pandas
 gdown
 dvc
 mlflow==2.2.2
-notebook
 numpy
 matplotlib
 seaborn
@@ -16,4 +15,5 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
+dagshub
 -e .
