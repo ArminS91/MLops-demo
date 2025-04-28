@@ -37,3 +37,24 @@ conda activate chest
 ```bash
 pip install -r requirements.txt
 ```
+
+```bash
+python app.py
+```
+
+## Git commands
+
+```bash
+git add .
+
+git commit -m "Updated"
+
+git push origin main
+```
+
+
+### DVC cmd
+
+1. dvc init
+2. dvc repro
+3. dvc dag
