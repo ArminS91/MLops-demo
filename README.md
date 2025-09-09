@@ -58,3 +58,7 @@ git push origin main
 1. dvc init
 2. dvc repro
 3. dvc dag
+
+
+ec2 repo:
+725537514809.dkr.ecr.eu-central-1.amazonaws.com/mldemo
